@@ -6,3 +6,5 @@ In this project, I explored  stackoverflow posts dataset on BigQuery. I explored
 3.   The most difficult topics
 4.   Does using the word "help" in stackoverflow post will help get answers?
 
+## Build with:
+ Bigquery, Pandas, Seaborn
