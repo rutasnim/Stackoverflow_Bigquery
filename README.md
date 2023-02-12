@@ -1,4 +1,4 @@
-# Exploratory Data Analysis on Stackoverflow posts with BigQuery
+# Analysis on Stackoverflow posts with BigQuery
 In this project, I explored  stackoverflow posts dataset on BigQuery. I explored the structure and also discovered the following:
 
 1.   the popular topics on stackoverflow by lifetime and also by years
