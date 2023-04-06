@@ -7,4 +7,4 @@ In this project, I explored  stackoverflow posts dataset on BigQuery. I explored
 4.   Does using the word "help" in stackoverflow post will help get answers?
 
 ## Build with:
- Bigquery, Pandas, Numpy, Seaborn, matplotlib
+ Bigquery, Pandas, Numpy, Seaborn, matlibplot
